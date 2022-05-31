@@ -1,0 +1,10 @@
+matplotlib
+pyfiglet
+PyInquirer
+PTable
+cython
+ripser
+gudhi
+prompt_toolkit==1.0.14
+prettytable
+
